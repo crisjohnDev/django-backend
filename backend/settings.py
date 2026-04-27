@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-f&za0%5d3gq!)yj4%hjj)v5@r06s4%w9dy%^$o$s(wp+2j=(be
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["django-backend-xje5.onrender.com"]
 
 CORS_ALLOW_ALL_ORIGINS = True # Important for React
 # Application definition
